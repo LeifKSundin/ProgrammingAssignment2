@@ -1,8 +1,8 @@
 ## I made the first makeCacheMatrix function so that it creates a list of 4 functions, 
 ## setMatrix and getMatrix are what the sound like, you set and get your matrixes.
-## The following two set and gets your inverse of that matrix. z have been assigned to cache the computation.
+## The following two set and gets your inverse of that matrix. z have been assigned to cache the computation from the cacheSolve().
 ## cacheSolve checks with an if() statement if there are a cache, 
-##if not it computes it and stores it in the makeCacheMatrix() with the setInv functions.
+## if not it computes it and stores it in the makeCacheMatrix() with the setInv functions.
 ## I have never programmed before so I hope i got it right
 
 ## function that stores its own inverse
